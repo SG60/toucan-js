@@ -35,6 +35,7 @@
     "@sentry/integrations": "7.100.1"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "4.20230307.0",
     "@rollup/plugin-commonjs": "25.0.3",
     "@rollup/plugin-node-resolve": "15.1.0",
     "@rollup/plugin-replace": "5.0.2",
